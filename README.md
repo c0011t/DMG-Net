@@ -5,7 +5,7 @@ Accurate segmentation of retinal vessels is critical for ocular disease diagnosi
 
 Datasets
 DRIVE (Digital Retinal Images for Vessel Extraction) dataset is available at: https://drive.grand-challenge.org/
-STARE (Structured Analysis of the Retina) dataset is available at: http://cecas.clemson.edu/\string~ahoover/stare/
+STARE (Structured Analysis of the Retina) dataset is available at: http://cecas.clemson.edu/~ahoover/stare/
 CHASE_DB1 (Child Heart and Health Study in England) retinal vessel reference dataset is available at: https://researchinnovation.kingston.ac.uk/en/datasets/chasedb1-retinal-vessel-reference-dataset-4/
 
 <img width="1872" height="2253" alt="FULL" src="https://github.com/user-attachments/assets/57f67fbc-1441-4771-b74e-84233671ad40" />
